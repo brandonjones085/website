@@ -25,11 +25,11 @@ preserveTaxonomyNames = true
     showhugo = false
 
     # Urls for social networks
-    medium = "https://facebook.com"
-    twitter = "https://twitter.com"
-    linkedin = "https://linkedin.com"
-    github = "https://github.com"
-    gitlab = "https://gitlab.com"
+    medium = "https://brandon-jones085.medium.com"
+    twitter = "https://twitter.com/brandon_jones08"
+    linkedin = "https://www.linkedin.com/in/brandonjones085/"
+    github = "https://github.com/brandonjones085"
+  
 
     # Enables or disables the loading animations. false activates them. Default is false.
     loadfastload = false
