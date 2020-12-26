@@ -13,7 +13,7 @@ preserveTaxonomyNames = true
     mainpagesubtitle = "Hello, my name is Brandon Jones" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "Again, welcome to my page! As you already know, my name is Brandon Jones and I have been working as a DevOps/SysAdmin Engineer since 2019. I was drawn to DevOps due to the combination"
+    mainpagedesc = "Again, welcome to my page! As you already know, my name is Brandon Jones and I have been working as a DevOps/SysAdmin Engineer since 2019."
 
     # The name to display in the copyright section in the footer
     copyrightname = "BrandonJones.tech"
@@ -25,7 +25,7 @@ preserveTaxonomyNames = true
     showhugo = false
 
     # Urls for social networks
-    medium = "https://brandon-jones085.medium.com"
+    Medium = "https://brandon-jones085.medium.com"
     twitter = "https://twitter.com/brandon_jones08"
     linkedin = "https://www.linkedin.com/in/brandonjones085/"
     github = "https://github.com/brandonjones085"
@@ -60,15 +60,8 @@ preserveTaxonomyNames = true
     url = "/about/"      # The path to the content. It can lead to a single page (like here)
     weight = 10          # A number to order the buttons in the navbar
 
-  [[menu.main]]
-    identifier = "posts"
-    name = "All posts"
-    url = "/post/"       # The path can lead to a content folder too.
-    weight = 20
 
-[taxonomies]
-category = "categories"
-tag = "tags"
+
 
 
 [privacy]
