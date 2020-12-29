@@ -3,6 +3,7 @@ title = "BrandonJones.tech"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
+googleAnalytics= "UA-177850805-1"
 preserveTaxonomyNames = true
 
 [params]
