@@ -1,4 +1,4 @@
-baseURL = "http://www.brandonjones.tech"
+baseURL = "http://brandonjones.tech"
 title = "BrandonJones.tech"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language

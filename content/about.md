@@ -6,11 +6,13 @@ aliases = ["about-us","about-hugo","contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Welcome to my static page!
 
 You can see some of my Medium blog posts here:
 
 * https://brandon-jones085.medium.com
+
+I have been involved with tech for several years. Prior to my CS background, I heavily involved in Biology and the natural sciences. During my research project, I was introduced to Python and data analysis using R. This interested turned into a passion which lead me to where I am today. 
 
 
 
